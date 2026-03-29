@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      Contacts: "edw001@korea.ac.kr",
+      블로그 주인장에게 문의하기: "mailto:edw001@korea.ac.kr",
     },
   }),
 }
